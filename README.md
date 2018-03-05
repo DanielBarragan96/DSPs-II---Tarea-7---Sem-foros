@@ -1,4 +1,4 @@
-#Tarea 7: Semáforos
+Tarea 7: Semáforos
 
 Se deberán un programa usando FreeRTOS en la K64 para lo siguiente:
 
